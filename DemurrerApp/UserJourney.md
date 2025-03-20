@@ -195,7 +195,8 @@
 
 # User instruction / how to use this app:
 >
-Welcome to the Demurrer (DR) App! Start by uploading and approving the correct versions of your complaint document(s). The system will analyze each cause of action to determine whether that claim has has a **valid grounds** for demurrer. 
+Welcome to the Demurrer (DR) App! 
+Start by uploading and approving the correct versions of your complaint document(s). The system will analyze each cause of action to determine whether that claim has has a **valid grounds** for demurrer. 
 For those marked as having grounds, you’ll see recommended arguments and citations; for those without, you can review an explanation of why the system concluded **“no ground”** you can still **override** if needed and generate a demurrer for that claim. 
 After finalizing which causes of action to include, generate mindmaps to visualize and refine your arguments. 
 Finally, preview the assembled demurrer and export the finished document to Word.
